@@ -1,0 +1,9 @@
+{
+    "name": "shnode",
+    "version": "0.1.0",
+    "description": "Common node utils",
+    "scripts": [
+        "shnode"
+    ],
+    "install": "make install"
+}
