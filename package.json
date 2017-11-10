@@ -5,5 +5,8 @@
     "scripts": [
         "shnode"
     ],
-    "install": "make install"
+    "install": "make install",
+    "dependencies": {
+        "https://coding.net/u/hydra1983/p/bpkg-logging": "master"
+    }
 }
